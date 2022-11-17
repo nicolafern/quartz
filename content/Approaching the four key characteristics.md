@@ -1,0 +1,4 @@
+- nature
+- intensity
+- complexity
+- unpredictability
